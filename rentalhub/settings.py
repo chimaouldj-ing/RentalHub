@@ -8,7 +8,7 @@ SECRET_KEY = "django-insecure-change-this-later"
 
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["rentalhub-7734.onrender.com"]
 
 
 INSTALLED_APPS = [
